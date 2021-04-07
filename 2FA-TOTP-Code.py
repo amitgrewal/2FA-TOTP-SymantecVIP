@@ -1,7 +1,7 @@
 #This code was ran in Anaconda Command Prompt Terminal with the base(root) environment
 #Make sure pip is installed
 
-# Install latest release from PyPI or dlenski's GitHub Repo
+#Install latest release from PyPI or dlenski's GitHub Repo
 pip3 install python-vipaccess
 pip3 install https://github.com/dlenski/python-vipaccess/archive/HEAD.zip
 #dependencies should be installed automatically
